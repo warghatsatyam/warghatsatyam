@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Warghat</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://www.google.com/search?sxsrf=APwXEdcNbKD4aW4ixfqwfDkpfPiNiRQFVQ:1687104255604&q=animated+coding+gif&tbm=isch&sa=X&ved=2ahUKEwjOweqOmc3_AhXUD94KHU-eAgUQ0pQJegQIDBAB&biw=1311&bih=649&dpr=1#imgrc=ITaGGdoGDaxxhM](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwi-p-qkmc3_AhVnArcAHTTTAMEQMygDegUIARCaAg..i&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwi-p-qkmc3_AhVnArcAHTTTAMEQMygDegUIARCaAg)">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warghatsatyam&label=Profile%20views&color=0e75b6&style=flat" alt="warghatsatyam" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
